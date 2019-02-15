@@ -17,6 +17,7 @@ Backend: localhost:8090
 ### Installing
 
 Install the following:
+* Install NPM
 * Install Vue.js
 * Install Java
 * Install Maven 3+
