@@ -1,4 +1,4 @@
-# Project Title
+# Account application
 
 Account application. Stores accounts with first name, surname and account numbers.
 
@@ -24,10 +24,9 @@ Install the following:
 
 ##### Frontend:
 To startup the frontend, go into the frotend directory in the termainl and enter the following:
-[code]
-npm install
-npm run dev
-[/code]
+>npm install
+
+>npm run dev
 
 ##### Backend:
 To startup the backend, go into the src directory in the IDE. Open up the AccountAppApplication class and run the class to execute the 
@@ -55,6 +54,25 @@ is the url for the mongoDB database. Change that url to your MongoDB database lo
 * Maven
 * Spring boot
 * MongoDB
+
+## Images
+
+### Account application
+
+![GitHub app image](https://github.com/kyle-c-simmons/accountapp/blob/master/images/app.png)
+
+### Search buttons
+
+![GitHub search image](https://github.com/kyle-c-simmons/accountapp/blob/master/images/search.png)
+
+### Edit users
+
+![GitHub edit image](https://github.com/kyle-c-simmons/accountapp/blob/master/images/edit.png)
+
+### Storing data in the API
+
+![GitHub api image](https://github.com/kyle-c-simmons/accountapp/blob/master/images/api.png)
+
 
 ## Authors
 
