@@ -53,6 +53,7 @@ This is the url for the mongoDB database. Change that url to your MongoDB databa
 * HTML5
 * CSS3
 * SCSS
+* Bootstrap
 * Vue.js
 * Javascript
 * Java7
